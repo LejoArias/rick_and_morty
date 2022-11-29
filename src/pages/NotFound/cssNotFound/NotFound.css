@@ -1,0 +1,20 @@
+.notContainer{
+    background-image: url(../../../images/bgHome.jpg);
+    height: 780px;
+    text-align: center;
+    background-size: cover;
+    background-color:gray;
+}
+.message{
+    color:beige;
+    text-align:center;
+    padding: 300px;
+    padding-left: 8px;
+    font-size:90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.link-warning{
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+}

@@ -1,0 +1,15 @@
+.notContainer{
+    background-image: url(../../../images/bgHome.jpg);
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+    background-color:black;
+}
+.title{
+    color:white;
+    padding: 280px;
+    padding-left: 15px;
+    font-family:inherit;
+    
+}
+

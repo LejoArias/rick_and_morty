@@ -1,0 +1,28 @@
+button{
+    padding: 15%;
+    margin-top: 10%;
+    border: 50px;
+    
+}
+.Page{
+    font-size: 25px;
+    color:blue;
+}
+.alive
+{
+  color:green;
+  font-size: 30px;
+}
+.dead
+{
+  color:red;
+  font-size: 30px;
+}
+.unknown
+{
+  color:blue;
+  font-size: 30px;
+}
+select{
+  height: 50px;
+}
